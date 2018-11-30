@@ -18,6 +18,7 @@
   * [Operations](guides/ops/README.md)
     * [How to setup the VPN](guides/ops/vpn_setup.md)
     * [Developer Setup Guide](guides/ops/developer_setup.md)
+    * [Multi-Developer Setup Guide](guides/ops/multi_developer_setup.md)
   * [Practices](guides/practices/README.md)
     * [Pair Programming Practice](guides/practices/pair-programming.md)
     * [Friday Practice](guides/practices/friday.md)

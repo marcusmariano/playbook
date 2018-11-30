@@ -27,4 +27,7 @@ After creating and logging into the new user account with admin permissions comp
     # verify
     `brew update`
 
+    # Ignore ZSH warnings by adding this line on top of the .zshrc file
+    ZSH_DISABLE_COMPFIX=true
+
 Adapted from: https://stackoverflow.com/a/44481141
